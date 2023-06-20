@@ -3,3 +3,5 @@
 Mi primer repositorio
 
 i love :dog:,🦁, 🐰 
+
+i love 🎸, 🎹, 🍬
